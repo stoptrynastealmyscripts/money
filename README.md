@@ -1,2 +1,600 @@
-# money
-wbf98bf39abfa
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
+local Event = game:GetService("ReplicatedStorage").Remotes.Money
+Event:FireServer()
+
